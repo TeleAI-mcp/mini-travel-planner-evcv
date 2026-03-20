@@ -1,2 +1,3 @@
-# mini-travel-planner-evcv
-Automated issue comment bot repository
+# Mini Travel Planner Evcv
+
+Automated issue comment bot repository.
